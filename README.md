@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GayusTarihoran1
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Laravel, Angular, and Shedcn
+- 🌱 I’m currently learning React JS, Laravel, Angular, and Shedcn
 - 📫 How to reach me : you can email me at gayusknight2@gmail.com
 
 <!---
